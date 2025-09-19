@@ -17,7 +17,7 @@ A RESTful API for managing tasks with user authentication built using Flask, SQL
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd task-manager-api
+cd <folder-name>
 ```
 
 2. Install dependencies:
